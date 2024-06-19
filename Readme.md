@@ -1,7 +1,7 @@
 Открытие MiniApp в браузере
 https://github.com/hudoznik/js_rep/raw/main/webTelegtamm.js
 
-https://t.me/hamsTer_kombat_bot/start?startapp=kentId368904590
+### [Получить Бонус для хомяка](https://t.me/hamsTer_kombat_bot/start?startapp=kentId368904590)
 
 # Как запустить
 ### Способ #1
