@@ -10,5 +10,5 @@ https://github.com/hudoznik/js_rep/raw/main/webTelegtamm.js
 - Tab URL: `*` From: `https://hamsterkombat.io/js/telegram-web-app.js` To: `https://github.com/hudoznik/js_rep/raw/main/webTelegtamm.js`
 - ![Настройки расширения](settings.png)
 - Установить расширение расширение [OrangeMonkey](https://chromewebstore.google.com/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf)
-- [Установить скрипт кликера](https://github.com/hudoznik/js_rep/blob/main/hamster-autoclicker.user.js)
+- [Установить скрипт кликера](https://github.com/hudoznik/js_rep/raw/main/hamster-autoclicker.user.js)
 ### Открыть [Бота Hamster Kombat](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DhamsteR_kombaT_bot%26appname%3Dstart%26startapp%3DkentId368904590) , затем обязательно дождаться появления кнопки ( Играть в 1 клик / Play in one click). Нажать на неё.
