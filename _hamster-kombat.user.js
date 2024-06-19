@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Hamster Kombat Web
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Запуск Hamster Kombat в браузере
 // @author       mudachyo
 // @match        *://*.hamsterkombat.io/*
 // @grant        none
 // @icon         https://hamsterkombat.io/images/icons/hamster-coin.png
-// @downloadURL  https://github.com/js_rep/js_rep/raw/main/hamster-kombat.user.js
-// @updateURL    https://github.com/js_rep/js_rep/raw/main/hamster-kombat.user.js
-// @homepage     https://github.com/js_rep/js_rep
+// @downloadURL  https://github.com/js_rep/raw/main/hamster-kombat.user.js
+// @updateURL    https://github.com/js_rep/raw/main/hamster-kombat.user.js
+// @homepage     https://github.com/js_rep/
 // ==/UserScript==
 
 (function() {
